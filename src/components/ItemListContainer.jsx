@@ -1,7 +1,7 @@
-import ItemCount from "./itemCount/ItemCount";
+import ItemCount from "./ItemCount";
 import React, {useEffect, useState} from "react";
 import customFetch from '../utils/customFetch'
-import ItemList from "./Item/ItemList";
+import ItemList from "./ItemList";
 
 
 
